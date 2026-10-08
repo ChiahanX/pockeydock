@@ -1,0 +1,14 @@
+.build/
+.toolchain/
+work/
+.venv/
+*.apk
+*.idsig
+*.exe
+*.p12
+*.jks
+*.keystore
+*.log
+local.properties
+.env
+.env.*
